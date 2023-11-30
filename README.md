@@ -1,4 +1,4 @@
-# java - tranning 
+# java - tranning-note 
 
 
 ![](https://github.com/archie0732/java-tranning/blob/main/picture/ayaka007.jpg)
